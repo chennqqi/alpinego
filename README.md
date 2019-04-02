@@ -1,13 +1,13 @@
 alpinego
 =============
 
-[![Circle CI](https://circleci.com/gh/chennqqi/alpinego.png?style=shield)](https://circleci.com/gh/malice-plugins/clamav)
+
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
-[![Docker Stars](https://img.shields.io/docker/stars/malice/clamav.svg)](https://hub.docker.com/r/sort/alpinego/)
+[![Docker Stars](https://img.shields.io/docker/stars/chennqqi/alpinego.svg)](https://hub.docker.com/r/sort/alpinego/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/malice/clamav.svg)](https://hub.docker.com/r/sort/alpinego/)
 [![Docker Image](https://img.shields.io/badge/docker%20image-188MB-blue.svg)](https://hub.docker.com/r/sort/alpinego/)
 
-This repository contains a **Dockerfile** of [alpinego](https://github.com/chennqqi/alpinego/) for [Docker](https://www.docker.io/)'s [trusted build](https://index.docker.io/u/sort/alpinego/) published to the public [DockerHub](https://index.docker.io/).
+This repository contains a **Dockerfile** of [alpinego](https://github.com/chennqqi/alpinego/) for [Docker](https://www.docker.com/)'s [trusted build](https://hub.docker.com/u/sort/alpinego/) published to the public [DockerHub](https://hub.docker.com/).
 
 ### Dependencies
 
