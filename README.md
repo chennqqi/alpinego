@@ -1,6 +1,13 @@
 alpinego
 =============
 
+** Deplicated!!! **
+Change build mode below to solve glibc linking problem
+
+```
+go build -a -installsuffix cgo
+```
+
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
